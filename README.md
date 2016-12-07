@@ -1,6 +1,9 @@
 # LogicExpressionRecognizer
 Решение логических выражений.
 
+![ScreenShot](https://github.com/anvob/LogicExpressionRecognizer/blob/master/image.jpg)
+
+
 Входной язык содержит логические выражения, разделенные символом; (точка с запятой).
 Логические выражения состоят из:
 - идентификаторов(все буквы или цифры во всех возможный вариантах)
